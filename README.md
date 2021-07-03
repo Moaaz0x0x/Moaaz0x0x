@@ -3,5 +3,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ep1n3phr1n3&show_icons=true&theme=gotham" width="380">
 
 
-[![Twitter: ep1n3phr1n3](https://img.shields.io/twitter/follow/ep1n3phr1n3?style=flat-square)](https://twitter.com/ep1n3phr1n3)
-[![GitHub ep1n3phr1n3](https://img.shields.io/github/followers/ep1n3phr1n3?label=follow%20github&style=flat-square)](https://github.com/ep1n3phr1n3)
+<a href="https://twitter.com/ep1n3phr1n3">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ep1n3phr1n3?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/DenverCoder1">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ep1n3phr1n3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+</p>
