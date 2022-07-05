@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6CF7B9&lines=Hello+There!+This+is+Moaaz;Penetration+Tester+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6CF7B9&lines=Hello+There!+This+is+Moaaz;Penetration+Tester)](https://git.io/typing-svg)
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=PhotonBolt&show_icons=true&theme=gotham" width="380">
 
